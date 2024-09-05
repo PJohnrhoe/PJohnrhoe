@@ -1,4 +1,4 @@
-<h1>Hey, I'm Prince! <br/><a href="https://www.linkedin.com/in/pjohnrhoe/">A Blue Teamer with a passion for defending against adversaries</a></h1>
+<h1>Hey, I'm Prince! <br/><a href="https://www.linkedin.com/in/pjohnrhoe/">A Blue Teamer with a passion for defending against cyber threats</a></h1>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
