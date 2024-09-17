@@ -4,6 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [PfSense Firewall Home Lab](https://github.com/PJohnrhoe/PfSenseLab)
+  - [Microsoft Sentinel Home Lab](https://github.com/PJohnrhoe/MicrosoftSentinelLab)
   
 <h2>📄 Certifications:</h2>
 
